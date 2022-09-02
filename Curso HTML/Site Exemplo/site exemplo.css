@@ -10,6 +10,7 @@ main{
     width: 600px;
     padding: 10px;
     background-color: white;
+    border-radius: 10px;
     box-shadow: 5px 5px 15px #67a3a1;
     margin: auto;
 }
