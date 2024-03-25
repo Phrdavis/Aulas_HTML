@@ -7,11 +7,3 @@
   <li>✅CSS</li>
   <li>✅JavaScript</li>
  </ul>
-
-<h2>Frameworks</h2>
-
-<p>Estudos em desenvolvimento:</p>
-<ul>
-  <li>❌React.js</li>
-  <li>❌Angular</li>
- </ul>
